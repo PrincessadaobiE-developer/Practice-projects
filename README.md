@@ -1,6 +1,6 @@
 ## Learning Projects
 
-Hi, I’m ** Princess Adaobi** 👋  
+Hi, I’m **Princess Adaobi** 👋  
 I’m  Currently studying Msc in AI & Robotics focused on learning and improving my coding skills.
 
 This repository contains **practice projects and experiments** that showcase my growth in:
